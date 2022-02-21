@@ -3,8 +3,6 @@
 Todo app built with react.
 ## Screenshot
 
-![screenshot](https://user-images.githubusercontent.com/38283436/153860590-58777396-f1d6-48a3-b160-7093a8ac1b06.PNG)
-
 ## Live Demo
 
 [Live Demo]
