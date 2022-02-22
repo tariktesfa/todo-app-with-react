@@ -10,7 +10,7 @@ const Header = () => {
     <header style={headerStyle}>
       <h1
         style={{
-          fontSize: '6rem',
+          fontSize: '4rem',
           fontWeight: '600',
           lineHeight: '1em',
           color: '#91babd',

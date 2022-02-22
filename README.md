@@ -1,8 +1,9 @@
 ## Todo app
 
-Todo app built with react.
+Todo app built with react that helps users to add, delete and edit to-do lists.
 ## Screenshot
 
+![screenshot_todo](https://user-images.githubusercontent.com/38283436/155087192-663086ef-1330-4983-9269-73a9ba70d7f0.PNG)
 ## Live Demo
 
 [Live Demo]
