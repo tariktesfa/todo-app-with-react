@@ -5,7 +5,7 @@ Todo app built with react.
 
 ## Live Demo
 
-[Live Demo]
+[Live Demo](https://jovial-swirles-49b934.netlify.app/)
 ## Built With
 
 - React
